@@ -1,0 +1,29 @@
+[0.376s] Invoking command in '/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/src/pure_pursuit_pkg': PYTHONPATH=/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/build/pure_pursuit_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/install/pure_pursuit_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/pure_pursuit_pkg build --build-base /home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/build/pure_pursuit_pkg/build install --record /home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/build/pure_pursuit_pkg/install.log --single-version-externally-managed install_data
+[0.456s] /home/WVU-AD/mae00018/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+[0.456s]   warnings.warn(msg)
+[0.500s] running egg_info
+[0.507s] writing ../../build/pure_pursuit_pkg/pure_pursuit_pkg.egg-info/PKG-INFO
+[0.508s] writing dependency_links to ../../build/pure_pursuit_pkg/pure_pursuit_pkg.egg-info/dependency_links.txt
+[0.508s] writing entry points to ../../build/pure_pursuit_pkg/pure_pursuit_pkg.egg-info/entry_points.txt
+[0.508s] writing requirements to ../../build/pure_pursuit_pkg/pure_pursuit_pkg.egg-info/requires.txt
+[0.508s] writing top-level names to ../../build/pure_pursuit_pkg/pure_pursuit_pkg.egg-info/top_level.txt
+[0.523s] reading manifest file '../../build/pure_pursuit_pkg/pure_pursuit_pkg.egg-info/SOURCES.txt'
+[0.523s] writing manifest file '../../build/pure_pursuit_pkg/pure_pursuit_pkg.egg-info/SOURCES.txt'
+[0.523s] running build
+[0.523s] running build_py
+[0.523s] copying pure_pursuit_pkg/__init__.py -> /home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/build/pure_pursuit_pkg/build/lib/pure_pursuit_pkg
+[0.523s] copying pure_pursuit_pkg/pure_pursuit_node.py -> /home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/build/pure_pursuit_pkg/build/lib/pure_pursuit_pkg
+[0.524s] running install
+[0.526s] running install_lib
+[0.533s] copying /home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/build/pure_pursuit_pkg/build/lib/pure_pursuit_pkg/pure_pursuit_node.py -> /home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/install/pure_pursuit_pkg/lib/python3.10/site-packages/pure_pursuit_pkg
+[0.533s] byte-compiling /home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/install/pure_pursuit_pkg/lib/python3.10/site-packages/pure_pursuit_pkg/pure_pursuit_node.py to pure_pursuit_node.cpython-310.pyc
+[0.534s] running install_data
+[0.534s] copying resource/pure_pursuit_pkg -> /home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/install/pure_pursuit_pkg/share/ament_index/resource_index/packages
+[0.534s] copying package.xml -> /home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/install/pure_pursuit_pkg/share/pure_pursuit_pkg
+[0.534s] running install_egg_info
+[0.542s] removing '/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/install/pure_pursuit_pkg/lib/python3.10/site-packages/pure_pursuit_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.542s] Copying ../../build/pure_pursuit_pkg/pure_pursuit_pkg.egg-info to /home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/install/pure_pursuit_pkg/lib/python3.10/site-packages/pure_pursuit_pkg-0.0.0-py3.10.egg-info
+[0.542s] running install_scripts
+[0.607s] Installing pure_pursuit_node script to /home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/install/pure_pursuit_pkg/lib/pure_pursuit_pkg
+[0.607s] writing list of installed files to '/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/build/pure_pursuit_pkg/install.log'
+[0.618s] Invoked command in '/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/src/pure_pursuit_pkg' returned '0': PYTHONPATH=/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/build/pure_pursuit_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/install/pure_pursuit_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/pure_pursuit_pkg build --build-base /home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/build/pure_pursuit_pkg/build install --record /home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/build/pure_pursuit_pkg/install.log --single-version-externally-managed install_data

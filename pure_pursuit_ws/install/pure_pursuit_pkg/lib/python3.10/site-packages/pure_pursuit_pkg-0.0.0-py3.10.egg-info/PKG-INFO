@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: pure_pursuit_pkg
+Version: 0.0.0
+Summary: TODO: Package description
+Maintainer: mae00018
+Maintainer-email: mae00018@mix.wvu.edu
+License: TODO: License declaration
+Requires-Dist: setuptools

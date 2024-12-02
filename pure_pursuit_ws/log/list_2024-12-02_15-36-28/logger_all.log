@@ -1,0 +1,56 @@
+[0.054s] colcon DEBUG Command line arguments: ['/usr/bin/colcon', 'list', '-p', '--base-paths', '/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws']
+[0.054s] colcon DEBUG Parsed command line arguments: Namespace(log_base=None, log_level=None, verb_name='list', build_base='build', ignore_user_meta=False, metas=['./colcon.meta'], base_paths=['/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws'], packages_ignore=None, packages_ignore_regex=None, paths=None, packages_up_to=None, packages_up_to_regex=None, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_select_by_dep=None, packages_skip_by_dep=None, packages_skip_up_to=None, packages_select_build_failed=False, packages_skip_build_finished=False, packages_select_test_failures=False, packages_skip_test_passed=False, packages_select=None, packages_skip=None, packages_select_regex=None, packages_skip_regex=None, packages_start=None, packages_end=None, allow_overriding=[], topological_order=False, names_only=False, paths_only=True, topological_graph=False, topological_graph_dot=False, topological_graph_density=False, topological_graph_legend=False, topological_graph_dot_cluster=False, topological_graph_dot_include_skipped=False, mixin_files=None, mixin=None, verb_parser=<colcon_mixin.mixin.mixin_argument.MixinArgumentDecorator object at 0x7f60a7359360>, verb_extension=<colcon_package_information.verb.list.ListVerb object at 0x7f60a7358610>, main=<bound method ListVerb.main of <colcon_package_information.verb.list.ListVerb object at 0x7f60a7358610>>, mixin_verb=('list',))
+[0.074s] colcon.colcon_core.package_discovery Level 1 discover_packages(colcon_meta) check parameters
+[0.074s] colcon.colcon_core.package_discovery Level 1 discover_packages(recursive) check parameters
+[0.074s] colcon.colcon_core.package_discovery Level 1 discover_packages(ignore) check parameters
+[0.074s] colcon.colcon_core.package_discovery Level 1 discover_packages(path) check parameters
+[0.074s] colcon.colcon_core.package_discovery Level 1 discover_packages(recursive) discover
+[0.074s] colcon.colcon_core.package_discovery INFO Crawling recursively for packages in '/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws'
+[0.074s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws) by extensions ['ignore', 'ignore_ament_install']
+[0.074s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws) by extension 'ignore'
+[0.074s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws) by extension 'ignore_ament_install'
+[0.074s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws) by extensions ['colcon_pkg']
+[0.074s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws) by extension 'colcon_pkg'
+[0.074s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws) by extensions ['colcon_meta']
+[0.074s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws) by extension 'colcon_meta'
+[0.074s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws) by extensions ['ros']
+[0.074s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws) by extension 'ros'
+[0.082s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws) by extensions ['cmake', 'python']
+[0.082s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws) by extension 'cmake'
+[0.082s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws) by extension 'python'
+[0.082s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws) by extensions ['python_setup_py']
+[0.082s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws) by extension 'python_setup_py'
+[0.082s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/build) by extensions ['ignore', 'ignore_ament_install']
+[0.082s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/build) by extension 'ignore'
+[0.082s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/build) ignored
+[0.082s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/install) by extensions ['ignore', 'ignore_ament_install']
+[0.082s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/install) by extension 'ignore'
+[0.082s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/install) ignored
+[0.082s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/log) by extensions ['ignore', 'ignore_ament_install']
+[0.082s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/log) by extension 'ignore'
+[0.082s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/log) ignored
+[0.082s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/src) by extensions ['ignore', 'ignore_ament_install']
+[0.082s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/src) by extension 'ignore'
+[0.082s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/src) by extension 'ignore_ament_install'
+[0.082s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/src) by extensions ['colcon_pkg']
+[0.082s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/src) by extension 'colcon_pkg'
+[0.082s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/src) by extensions ['colcon_meta']
+[0.082s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/src) by extension 'colcon_meta'
+[0.082s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/src) by extensions ['ros']
+[0.082s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/src) by extension 'ros'
+[0.082s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/src) by extensions ['cmake', 'python']
+[0.082s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/src) by extension 'cmake'
+[0.082s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/src) by extension 'python'
+[0.082s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/src) by extensions ['python_setup_py']
+[0.082s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/src) by extension 'python_setup_py'
+[0.082s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/src/pure_pursuit_pkg) by extensions ['ignore', 'ignore_ament_install']
+[0.083s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/src/pure_pursuit_pkg) by extension 'ignore'
+[0.083s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/src/pure_pursuit_pkg) by extension 'ignore_ament_install'
+[0.083s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/src/pure_pursuit_pkg) by extensions ['colcon_pkg']
+[0.083s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/src/pure_pursuit_pkg) by extension 'colcon_pkg'
+[0.083s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/src/pure_pursuit_pkg) by extensions ['colcon_meta']
+[0.083s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/src/pure_pursuit_pkg) by extension 'colcon_meta'
+[0.083s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/src/pure_pursuit_pkg) by extensions ['ros']
+[0.083s] colcon.colcon_core.package_identification Level 1 _identify(/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/src/pure_pursuit_pkg) by extension 'ros'
+[0.084s] colcon.colcon_core.package_identification DEBUG Package '/home/WVU-AD/mae00018/F1tenth_Github/pure_pursuit_ws/src/pure_pursuit_pkg' with type 'ros.ament_python' and name 'pure_pursuit_pkg'
+[0.084s] colcon.colcon_core.package_discovery Level 1 discover_packages(recursive) using defaults

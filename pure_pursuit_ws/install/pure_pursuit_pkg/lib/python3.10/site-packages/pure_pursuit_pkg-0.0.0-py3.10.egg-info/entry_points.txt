@@ -1,0 +1,2 @@
+[console_scripts]
+pure_pursuit_node = pure_pursuit_pkg.pure_pursuit_node:main
